@@ -50,7 +50,7 @@ function Roadmap () {
    </div>
    
  </div>
- <div className=" md:w-full md:h-full w-auto h-[75%] pt-2 flex items-center ">
+ <div className=" md:w-full md:h-full w-auto h-[75%] pt-2 flex items-center md:justify-end">
  <img
  src="/Banner.png"
  className=" object-cover w-auto h-[75%] rounded-md"/>
