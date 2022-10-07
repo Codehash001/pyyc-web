@@ -12,7 +12,7 @@ function Footer () {
 	
             <Link href="/"><Image src="/Logo.png" height='80px' width="80px" className='cursor-pointer'/></Link>
 	
-            <a href="https://etherscan.io/0xaC8cB0A8642a9cb8461DD74C3799c4865Db39348#readContract" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Etherscan</a>
+            <a href="https://etherscan.io/address/0xaC8cB0A8642a9cb8461DD74C3799c4865Db39348#readContract" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Etherscan</a>
             <a href="https://discord.gg" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Discord</a>
 		
       </div>
