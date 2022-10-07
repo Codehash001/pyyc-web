@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import { useState,useEffect } from "react"
 import { initOnboard } from "../ulits/onboard"
 import { config } from '../dapp.config'
@@ -101,11 +102,16 @@ useEffect(() => {
 
   return ( 
 
- 
+    <div>
+    <Head>
+    <title>PYYC-Minting-Portal</title>
+    <meta name="Description" content="Pepe Y00ts Yacht Club!" />
+    <link rel="icon" href="/Logoicon.png" />
+    </Head>
     <div className="min-h-screen h-full w-full overflow-hidden flex flex-col items-center justify-center bg-brand-background ">
         <div className="relative w-full h-full flex flex-col items-center justify-center py-2">
         <img
-	        src="/Banner3.png"
+	        src="/Banner2.png"
           className="absolute inset-auto block w-full min-h-screen object-cover"
         />
                 <div className="flex flex-col items-center justify-center h-full w-full px-2 md:px-10">
@@ -260,6 +266,7 @@ useEffect(() => {
   
   </div>
 
+</div>
 </div>
     
         )

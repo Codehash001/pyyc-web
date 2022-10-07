@@ -15,28 +15,28 @@ function Roadmap () {
        <div className=" font-Righteous text-2xl text-orange-600"> 20%
          <p className="text-medium text-gray-400 ml-4 font-sans text-[20px]">First Giveway of 50 PYYC after minting 50%</p>
        </div>
-       <div className='block h-8 w-0.5 border border-white mt-0 ml-4'></div>
+       <div className='block h-10 w-0.5 border border-white mt-0 ml-4'></div>
      </div>
 
      <div className="flex flex-col items-start justify-start mt-4 ">
        <div className=" font-Righteous text-2xl text-orange-600"> 40%
          <p className="text-medium text-gray-400 ml-4 font-sans text-[20px]">Open Discord after Sold Out</p>
        </div>
-       <div className='block h-8 w-0.5 border border-white mt-0 ml-4'></div>
+       <div className='block h-10 w-0.5 border border-white mt-0 ml-4'></div>
      </div>
 
      <div className="flex flex-col items-start justify-start mt-4">
        <div className=" font-Righteous text-2xl text-orange-600 "> 60%
          <p className="text-medium text-gray-400 ml-4 font-sans text-[20px] text-justify">Utility token (PYYC) airdrop for holders, after reaching<br/>1000E volume on Secondery Market (OS, Looksrare, X2Y2)</p>
        </div>
-       <div className='block h-8 w-0.5 border border-white mt-0 ml-4'></div>
+       <div className='block h-10 w-0.5 border border-white mt-0 ml-4'></div>
      </div>
 
      <div className="flex flex-col items-start justify-start mt-4 ">
        <div className=" font-Righteous text-2xl text-orange-600"> 80%
          <p className="text-medium text-gray-400 ml-4 font-sans text-[20px]">Merch</p>
        </div>
-       <div className='block h-8 w-0.5 border border-white mt-0 ml-4'></div>
+       <div className='block h-10 w-0.5 border border-white mt-0 ml-4'></div>
      </div>
 
      <div className="flex flex-col items-start justify-start mt-4 ">
@@ -53,7 +53,7 @@ function Roadmap () {
  <div className="my4 w-full h-full pt-2 flex items-center ">
  <img
  src="/Banner.png"
- className="object-cover w-full rounded-md"/>
+ className="object-cover md:w-full h-[75%] w-auto rounded-md"/>
 </div>
  
  
