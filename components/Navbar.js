@@ -63,7 +63,7 @@ function Navbar () {
 
               <li className="cursor-pointer px-2">
                 <a
-                  href="https://twitter.com/PepeY00ts_YC"
+                  href="https://twitter.com/PepeY00tsYC"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -184,7 +184,7 @@ function Navbar () {
 
               <li className="cursor-pointer px-2">
                 <a
-                  href="https://twitter.com/PepeY00ts_YC"
+                  href="https://twitter.com/PepeY00tsYC"
                   target="_blank"
                   rel="noreferrer"
                 >
