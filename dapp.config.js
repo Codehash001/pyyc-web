@@ -24,7 +24,9 @@ const onboardOptions = {
         appName: 'weRjapaneseTest01 Dapp'
       },
       
-      { walletName: 'trust', preferred: true,},
+      { walletName: 'trust',
+       preferred: true,
+       rpcUrl:RPC_URL},
       { walletName: 'gnosis'},
       { walletName: 'authereum' },
 
