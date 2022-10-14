@@ -48,7 +48,7 @@ function Navbar () {
           <nav aria-label="Contact Menu">
             <ul className="hidden md:flex items-center space-x-4 md:space-x-6">
               <li className="cursor-pointer px-2">
-                <a href="https://opensea.io" target="_blank" rel="noreferrer">
+                <a href="https://opensea.io/collection/pepe-y00ts-yc" target="_blank" rel="noreferrer">
                   <svg
                     className="w-6 h-6 md:w-8 md:h-8"
                     viewBox="0 0 90 90"
@@ -167,7 +167,7 @@ function Navbar () {
           <nav aria-label="Contact Menu">
             <ul className="flex items-center space-x-4 md:space-x-6">
               <li className="cursor-pointer px-2">
-                <a href="https://opensea.io" target="_blank" rel="noreferrer">
+                <a href="https://opensea.io/collection/pepe-y00ts-yc" target="_blank" rel="noreferrer">
                   <svg
                     className="w-6 h-6 md:w-8 md:h-8"
                     viewBox="0 0 90 90"
