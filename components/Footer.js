@@ -6,7 +6,7 @@ function Footer () {
     return(
       <div className='flex md:justify-evenly items-center justify-between w-full h-20 px-2 2xl:px-16 bg-black my-4'>
 	
-            <a href="https://Opensea.io" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Opeansea</a>
+            <a href="https://opensea.io/collection/pepe-y00ts-yc" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Opeansea</a>
             <a href="https://twitter.com/PepeY00tsYC" className='md:Text-2xl text-1xl text-gray-600' target="_blank" rel="noreferrer">Twitter</a>
 	
 	
